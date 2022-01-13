@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OnlineCodeEditor/static/css/main.3c64fb29.css",
+    "main.js": "/OnlineCodeEditor/static/js/main.54e48060.js",
+    "index.html": "/OnlineCodeEditor/index.html",
+    "main.3c64fb29.css.map": "/OnlineCodeEditor/static/css/main.3c64fb29.css.map",
+    "main.54e48060.js.map": "/OnlineCodeEditor/static/js/main.54e48060.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c64fb29.css",
+    "static/js/main.54e48060.js"
+  ]
+}
